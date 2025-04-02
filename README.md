@@ -7,6 +7,10 @@
 > 
 > All the code was created for educational purposes and studying malicious code to improve user security.
 
+<img src="Screenshot_20250402_211948_com.gamejolt.app.jpg" width="75%">
+  </a>
+</p>
+
 <!--## Инструкция
 Для браузеров на chromium:
 
