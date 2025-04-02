@@ -1,4 +1,9 @@
-## Инструкция
+> [!WARNING]
+> 🇷🇺 **Данное расширение крадёт ваши данные из Gamejolt и Discord. Если вы хотите проверить на подлинность, то используйте виртуальную машину или песочницу! Также не забывайте форкать оригинальный репозиторий.**
+>
+> 🇬🇧/🇺🇸 **This extension steals your data from Gamejolt and Discord. If you want to verify authenticity, then use a virtual machine or a sandbox! Also, don't forget to fork the original repository.**
+
+<!--## Инструкция
 Для браузеров на chromium:
 
 1.Скачать FixJoltChromium.zip
@@ -68,3 +73,4 @@ For firefox not chromium browsers:
 6.Select manifest.json
 
 7.Ready
+-->
